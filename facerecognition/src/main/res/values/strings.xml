@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="BLANK"></string>
+    <string name="STrain">Treinar</string>
+    <string name="SViewAll">Verificar todos os rostos</string>
+    <string name="SSearch">Procurar</string>
+    <string name="SDelete">Apagar</string>
+    <string name="SEnter">Entre com o nome para o rosto e pressione Gravar</string>
+    <string name="SStopTrain">Parar treinamento</string>
+    <string name="SStopSearch">Parar pesquisa</string>
+    <string name="Straininig">Treinando...</string>
+    <string name="SCanntoPredic">Mais de um rosto é necessário para prever</string>
+    <string name="SIdle">Paradp</string>
+    <string name="SFaceName">Nome do rosto:</string>
+    <string name="SSearching">Procurando</string>
+    <string name="SFrontCamera">Camera Frontal</string>
+    <string name="SBackCamera">Camera Traseira</string>
+    <string name="training">Treinando</string>
+    <string name="recognize">Reconhecendo</string>
+    <string name="capture">Capturando</string>
+    <string name="image_preview">Preview da captura</string>
+    <string name="capturing">Capturando</string>
+    <string name="results">Reconhecendo</string>
+    <string name="scan">Digitalizar</string>
+    <string name="scanning">Digitalizando</string>
+    <string name="next">Próximo</string>
+    <string name="please_enter_the_same_name_for_the_same_person_everytime_you_train_that_person">Por favor, digite o mesmo nome para a mesma pessoa toda vez que treinar essa pessoa</string>
+    <string name="who_are_you_going_to_train">Com quem você vai treinar?</string>
+    <string name="commit_attendance">Compromisso de compromisso</string>
+    <string name="give_attendance">Dar atendimento</string>
+    <string name="mark_attendance">Marcar Atendimento</string>
+</resources>
